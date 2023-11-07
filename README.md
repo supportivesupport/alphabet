@@ -1,2 +1,2 @@
-# alphabet
-Just an alphabet
+# Alphabet
+Just an alphabet operations
